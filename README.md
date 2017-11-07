@@ -1,10 +1,3 @@
----
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-title: America's Housing Crisis, Explained
----
 
 The most productive cities in America happen to be the most expensive ones. New York, San Francisco are the two most expensive cities in America, yet have some of the best job opportunities in the country. How did we get here? 
 
